@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/attention.svg</file>
+        <file>images/nuclear.svg</file>
+        <file>qml/main.qml</file>
+        <file>qml/MyButton.qml</file>
+        <file>qml/MyIconButton.qml</file>
+        <file>qml/MyText.qml</file>
+        <file>qml/MyTextField.qml</file>
+        <file>qml/MyPanel.qml</file>
+        <file>qml/MySlider.qml</file>
+        <file>qml/FrameMain.qml</file>
+    </qresource>
+</RCC>
